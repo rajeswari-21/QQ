@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayCopyClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CellsWithOddValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CellsWithOddValueBetterCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HollowSquareStarPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixDiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PangramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SetMatrixZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShuffleTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UglyNumberll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UglyNumberll_opti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WhatACodeArrayConcatenation.java" afterDir="false" />
+    <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +41,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/workspace/Cache-Redis/redis/redis"
+    "last_opened_file_path": "D:/workspace/Cache-Redis/redis/redis",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -124,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1723525061178</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committed">
+      <created>1727448044193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727448044193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +125,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
