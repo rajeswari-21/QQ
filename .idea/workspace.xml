@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BuySellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DividePlayersIntoTeamsOfEqualSkills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DividePlayersIntoTeamsOfEqualSkills">
+  <component name="RunManager" selected="Application.MergeSortedArray">
     <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuySellStock" />
       <module name="QQ" />
@@ -69,8 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NextPermutation" />
+    <configuration name="MergeInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeInterval" />
+      <module name="QQ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
       <module name="QQ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortColors" />
-      <module name="QQ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.MergeInterval" />
         <item itemvalue="Application.DividePlayersIntoTeamsOfEqualSkills" />
         <item itemvalue="Application.RotateImage" />
         <item itemvalue="Application.BuySellStock" />
-        <item itemvalue="Application.SortColors" />
-        <item itemvalue="Application.NextPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +229,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/DividePlayersIntoTeamsOfEqualSkills.java</url>
           <line>28</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeInterval.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSortedArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
