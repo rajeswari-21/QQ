@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RepeatMissingNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountInversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxMin">
-    <configuration name="DividePlayersIntoTeamsOfEqualSkills" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DividePlayersIntoTeamsOfEqualSkills" />
+  <component name="RunManager" selected="Application.CountInversion">
+    <configuration name="CountInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountInversion" />
       <module name="QQ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountInversion" />
         <item itemvalue="Application.MaxMin" />
         <item itemvalue="Application.RepeatMissingNumberArray" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.MergeInterval" />
-        <item itemvalue="Application.DividePlayersIntoTeamsOfEqualSkills" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +243,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/MaxMin.java</url>
           <line>7</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CountInversion.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CountInversion.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
