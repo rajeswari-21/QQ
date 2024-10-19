@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayCopyClone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BuySellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CellsWithOddValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CellsWithOddValueBetterCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountInversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DividePlayersIntoTeamsOfEqualSkills.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HollowSquareStarPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixDiagonalSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MaxMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MergeInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MergeSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PangramString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RepeatMissingNumberArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseBit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseWordsInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RotateImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SetMatrixZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ShuffleTheArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SortColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UglyNumberll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UglyNumberll_opti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WhatACodeArrayConcatenation.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/N_Queens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +48,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Permutations">
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.CombinationSum" />
+  <component name="RunManager" selected="Application.N_Queens">
+    <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.CombinationSum2" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.CombinationSum2" />
+    <configuration name="N_Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.N_Queens" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N_Queens" />
         <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.PermutationSequence" />
         <item itemvalue="Application.PalindromePartitioning" />
         <item itemvalue="Application.CombinationSum2" />
-        <item itemvalue="Application.CombinationSum" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +185,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/recursion/PermutationSequence.java</url>
           <line>17</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/N_Queens.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/N_Queens.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
