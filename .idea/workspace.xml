@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Math/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Math/SolBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Math/DayOfTheWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +51,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomNumbers">
-    <configuration name="N_Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.N_Queens" />
+  <component name="RunManager" selected="Application.DayOfTheWeek">
+    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.DayOfTheWeek" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PermutationSequence" />
+    <configuration name="N_Queens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.N_Queens" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayOfTheWeek" />
         <item itemvalue="Application.RandomNumbers" />
         <item itemvalue="Application.SolBase" />
         <item itemvalue="Application.N_Queens" />
         <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.PermutationSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +218,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Math/RandomNumbers.java</url>
           <line>26</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Math/DayOfTheWeek.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
