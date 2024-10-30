@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Math/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Math/PallindromString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayOfTheWeek">
+  <component name="RunManager" selected="Application.PallindromString">
     <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.DayOfTheWeek" />
       <module name="QQ" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion_Backtracking.Permutations" />
+    <configuration name="PallindromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.PallindromString" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion_Backtracking.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PallindromString" />
         <item itemvalue="Application.DayOfTheWeek" />
         <item itemvalue="Application.RandomNumbers" />
         <item itemvalue="Application.SolBase" />
         <item itemvalue="Application.N_Queens" />
-        <item itemvalue="Application.Permutations" />
       </list>
     </recent_temporary>
   </component>
