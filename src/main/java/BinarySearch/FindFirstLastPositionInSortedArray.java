@@ -3,33 +3,44 @@ package BinarySearch;
 import java.util.Arrays;
 
 public class FindFirstLastPositionInSortedArray {
-    static int[] solve(int[]  nums,int target){
-        int len= nums.length;
-        int ans=search(nums,0,len-1,target);
-        if(ans!=-1)
+    static int[] solve(int[]  input,int target){
+        int len= input.length;
+        int first=-1; int last=-1;
+        int low1=0;
+        int high1= len-1;
+        //lower bound
+        while(low1<=high1)
         {
-            if(ans!=len-1 && nums[ans+1]==target)
-                return new int[]{ans,ans+1};
-            else if(ans!=0 && nums[ans-1]==target)
-                return new int[]{ans-1,ans};
+            int mid= (low1+high1)/2;
+            if(input[mid]==target)
+            {
+                first=mid;
+                high1=mid-1;
+            }
+            else if(input[mid]>target)
+                high1=mid-1;
             else
-                return new int[]{ans};
+                low1=mid+1;
         }
-        else
-            return new int[]{ans,ans};
-    }
 
-    static int search(int[] arr,int start, int end,int target){
+        //upper bound
+        int low=0;
+        int high= len-1;
+        while(low<=high)
+        {
+            int mid= (low+high)/2;
+            if(input[mid]==target)
+            {
+                last=mid;
+                low=mid+1;
+            }
+            else if(input[mid]>target)
+                high=mid-1;
+            else
+                low=mid+1;
+        }
 
-        if(start>end)
-            return -1;
-        int mid= (start+end)/2;
-        if(arr[mid]==target)
-            return mid;
-        else if(arr[mid]<target)
-            return search(arr,mid+1,end,target);
-        else
-            return search(arr,start,mid-1,target);
+        return new int[]{first,last};
     }
 
     public static void main(String[] z){
