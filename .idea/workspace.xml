@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchUsingRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchUsingRecursion">
+  <component name="RunManager" selected="Application.SearchIn2DMatrixAmazon">
     <configuration name="BinarySearchUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchUsingLoop" />
       <module name="QQ" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PallindromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.PallindromString" />
+    <configuration name="SearchIn2DMatrixAmazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchIn2DMatrixAmazon" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchIn2DMatrixAmazon" />
         <item itemvalue="Application.BinarySearchUsingRecursion" />
         <item itemvalue="Application.BinarySearchUsingLoop" />
         <item itemvalue="Application.FindFirstLastPositionInSortedArray" />
         <item itemvalue="Application.ExcelSheetColumnTitle" />
-        <item itemvalue="Application.PallindromString" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +243,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchUsingLoop.java</url>
           <line>9</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
