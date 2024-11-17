@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch/FindFirstLastPositionInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindFirstLastPositionInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +51,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindFirstLastPositionInSortedArray">
-    <configuration name="BinarySearchUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SearchInRotatedSortedArrayUniqueElements">
+    <configuration name="BinarySearch.BinarySearchUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchUsingLoop" />
       <module name="QQ" />
       <extension name="coverage">
@@ -64,7 +65,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearch.BinarySearchUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchUsingRecursion" />
       <module name="QQ" />
       <extension name="coverage">
@@ -77,20 +78,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelSheetColumnTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.ExcelSheetColumnTitle" />
-      <module name="QQ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindFirstLastPositionInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearch.FindFirstLastPositionInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.FindFirstLastPositionInSortedArray" />
       <module name="QQ" />
       <extension name="coverage">
@@ -103,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIn2DMatrixAmazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearch.SearchIn2DMatrixAmazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchIn2DMatrixAmazon" />
+      <module name="QQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedSortedArrayUniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchInRotatedSortedArrayUniqueElements" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindFirstLastPositionInSortedArray" />
-        <item itemvalue="Application.SearchIn2DMatrixAmazon" />
-        <item itemvalue="Application.BinarySearchUsingRecursion" />
-        <item itemvalue="Application.BinarySearchUsingLoop" />
-        <item itemvalue="Application.ExcelSheetColumnTitle" />
+        <item itemvalue="Application.SearchInRotatedSortedArrayUniqueElements" />
+        <item itemvalue="Application.BinarySearch.FindFirstLastPositionInSortedArray" />
+        <item itemvalue="Application.BinarySearch.SearchIn2DMatrixAmazon" />
+        <item itemvalue="Application.BinarySearch.BinarySearchUsingRecursion" />
+        <item itemvalue="Application.BinarySearch.BinarySearchUsingLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +243,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java</url>
           <line>13</line>
           <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchInRotatedSortedArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
