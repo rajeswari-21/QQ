@@ -2,7 +2,7 @@ package BitManupulation;
 
 public class SingleNumerII {
 
-    public int singleNumber(int[] nums) {
+    public static int singleNumber(int[] nums) {
 
         int ans=0;
         for(int i=0;i<32;i++){
@@ -13,7 +13,7 @@ public class SingleNumerII {
             for(int n:nums)
             {
                 //each no 0th bit
-                if((n&mask)==1)
+                if((n&mask)!=0)
                     bitCount++; // sum of all the ith bit of all the numbers
             }
             if(bitCount%3!=0)
@@ -23,5 +23,12 @@ public class SingleNumerII {
         return ans;
     }
 
-    
+    public static void main(String[] z){
+
+        int i[]= new int[]{2,2,3,2};
+        //int i[]= new int[]{1,2,3,1};
+        //int i[]= new int[]{1,2};
+        System.out.println(singleNumber(i));
+
+    }
 }
