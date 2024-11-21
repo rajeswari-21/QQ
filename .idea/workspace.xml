@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/CapaCityToShipPackagesInDDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/KOKOEastingBananas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BitManupulation/SingleNumerII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BitManupulation/SingleNumerII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch/KOKOEastingBananas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/KOKOEastingBananas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

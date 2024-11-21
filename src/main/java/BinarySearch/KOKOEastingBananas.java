@@ -16,7 +16,7 @@ public class KOKOEastingBananas {
             int temp= checkNoOfHours(mid,piles);
             if(temp<=h)
             {
-                ans= temp; // for now lets consider this the best k
+                ans= mid; // for now lets consider this the best k
                 max=mid-1; // check better options
             }
             else
