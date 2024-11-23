@@ -39,7 +39,8 @@ public class Permutations {
     public static void main(String[] a) {
 
 
-        int[] mat = {1, 2, 3};
+        //int[] mat = {1, 2, 3};
+        int[] mat= {4,0,1,2, 3};
 
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(2);

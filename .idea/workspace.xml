@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch/KOKOEastingBananas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/KOKOEastingBananas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion_Backtracking/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion_Backtracking/Permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KOKOEastingBananas">
+  <component name="RunManager" selected="Application.SearchIn2DMatrixAmazon">
     <configuration name="CapaCityToShipPackagesInDDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.CapaCityToShipPackagesInDDays" />
       <module name="QQ" />
@@ -65,34 +66,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindPeakElement" />
-      <module name="QQ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindSingleElementSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindSingleElementSortedArray" />
-      <module name="QQ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KOKOEastingBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.KOKOEastingBananas" />
+      <module name="QQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion_Backtracking.Permutations" />
+      <module name="QQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion_Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchIn2DMatrixAmazon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchIn2DMatrixAmazon" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchIn2DMatrixAmazon" />
+        <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.KOKOEastingBananas" />
         <item itemvalue="Application.CapaCityToShipPackagesInDDays" />
         <item itemvalue="Application.SingleNumerII" />
-        <item itemvalue="Application.FindPeakElement" />
-        <item itemvalue="Application.FindSingleElementSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -240,11 +241,6 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchInRotatedSortedArray.java</url>
           <line>6</line>
           <option name="timeStamp" value="72" />
@@ -288,6 +284,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/KOKOEastingBananas.java</url>
           <line>30</line>
           <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
