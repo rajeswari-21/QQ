@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/MagneticForceBeteen2Balls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion_Backtracking/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion_Backtracking/Permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchIn2DMatrixAmazon">
-    <configuration name="CapaCityToShipPackagesInDDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.CapaCityToShipPackagesInDDays" />
+  <component name="RunManager" selected="Application.SingleNumerII">
+    <configuration name="KOKOEastingBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.KOKOEastingBananas" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KOKOEastingBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.KOKOEastingBananas" />
+    <configuration name="MagneticForceBeteen2Balls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.MagneticForceBeteen2Balls" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumerII" />
+        <item itemvalue="Application.MagneticForceBeteen2Balls" />
         <item itemvalue="Application.SearchIn2DMatrixAmazon" />
         <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.KOKOEastingBananas" />
-        <item itemvalue="Application.CapaCityToShipPackagesInDDays" />
-        <item itemvalue="Application.SingleNumerII" />
       </list>
     </recent_temporary>
   </component>
