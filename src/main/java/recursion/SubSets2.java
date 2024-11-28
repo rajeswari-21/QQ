@@ -1,12 +1,15 @@
 package recursion;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class SubSets2 {
 
     public static List<List<Integer>> subsetsWithDup(int[] nums) {
 
+        //
+        Arrays.sort(nums);
         //pointer
         int p=0;
         List<List<Integer>> ans= new ArrayList<>();
@@ -20,10 +23,12 @@ public class SubSets2 {
     {
         //base case
         ans.add(new ArrayList<>(temp));
+        temp.stream().forEach(i->System.out.println(i));
 
         for(int i=p;i<nums.length;i++)
         {
-            if(i!=p && nums[i]==nums[i-1]) continue;
+            if(i!=p && nums[i]==nums[i-1])
+                continue;
             temp.add((Integer)nums[i]);
             subset(nums,i+1,temp,ans);
             temp.remove(temp.size()-1);
@@ -36,6 +41,7 @@ public class SubSets2 {
 
         //long[] mat = {52244275, 123047899, 493394237, 922363607, 378906890, 188674257, 222477309, 902683641, 860884025, 339100162};
 
+        //int[] mat = {1,2,2,2,3,3};
         int[] mat = {1,2,1};
 
         ArrayList<Integer> arr= new ArrayList<>();

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/MagneticForceBeteen2Balls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Subset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/SubSets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/SubSets2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,39 +52,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleNumerII">
-    <configuration name="KOKOEastingBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.KOKOEastingBananas" />
-      <module name="QQ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Subset">
     <configuration name="MagneticForceBeteen2Balls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.MagneticForceBeteen2Balls" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion_Backtracking.Permutations" />
-      <module name="QQ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion_Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +92,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubSets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.SubSets2" />
+      <module name="QQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Subset" />
+      <module name="QQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subset" />
+        <item itemvalue="Application.SubSets2" />
         <item itemvalue="Application.SingleNumerII" />
         <item itemvalue="Application.MagneticForceBeteen2Balls" />
         <item itemvalue="Application.SearchIn2DMatrixAmazon" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.KOKOEastingBananas" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +294,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SearchIn2DMatrixAmazon.java</url>
           <line>10</line>
           <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/SubSets2.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/SubSets2.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/SubSets2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/SubSets2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/SubSets2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/Subset.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
