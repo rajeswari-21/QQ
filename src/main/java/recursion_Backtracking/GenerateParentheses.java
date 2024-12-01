@@ -40,7 +40,7 @@ public class GenerateParentheses {
     }
 
     public static void main(String[] a) {
-  
+
         List<String> ans = new ArrayList<>();
 
         ans = generateParenthesis(2);
