@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d042c22e-ba71-4f0a-9247-f8f9d7da66ea" name="Changes" comment="Committed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/CountOfSmallerNumbersAfterSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/InversionCountArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/KClosestPointsToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/MinimumnumberofBottlesvisiblewhenabottlecanbeenclosedinsideanotherBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/Permutation2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sorting/KthLargestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorting/KthLargestElementInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountOfSmallerNumbersAfterSelf">
+  <component name="RunManager" selected="Application.Permutation2">
     <configuration name="CountOfSmallerNumbersAfterSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.CountOfSmallerNumbersAfterSelf" />
       <module name="QQ" />
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InversionCountArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.InversionCountArray" />
+    <configuration name="KClosestPointsToOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.KClosestPointsToOrigin" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -81,21 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.KthLargestElementInArray" />
-      <module name="QQ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LetterCasePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.LetterCasePermutation" />
+    <configuration name="Permutation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Permutation2" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.ReversePairs" />
+    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SortColors" />
       <module name="QQ" />
       <extension name="coverage">
         <pattern>
@@ -120,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SquareRoot" />
+      <module name="QQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutation2" />
+        <item itemvalue="Application.KClosestPointsToOrigin" />
+        <item itemvalue="Application.SortColors" />
+        <item itemvalue="Application.SquareRoot" />
         <item itemvalue="Application.CountOfSmallerNumbersAfterSelf" />
-        <item itemvalue="Application.InversionCountArray" />
-        <item itemvalue="Application.ReversePairs" />
-        <item itemvalue="Application.KthLargestElementInArray" />
-        <item itemvalue="Application.LetterCasePermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -426,6 +427,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/Sorting/CountOfSmallerNumbersAfterSelf.java</url>
           <line>30</line>
           <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/SquareRoot.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Sorting/SortColors.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Sorting/SortColors.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/recursion/Permutation2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
